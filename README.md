@@ -1,5 +1,5 @@
 <h1>EDA on Titanic Data Set</h1>
-You can download and read about the data set by going through this link https://www.kaggle.com/c/titanic/data?select=test.csv. 
+You can download and read about the data set by going through above TITANIC DATASET file. 
 for completeness let me give a brief intro.
 
 This data set consists of information about the passengers of the RMS Titanic ship And also have info about is that particular passenger has survived that disaster or not. For every individual person, we have information about
